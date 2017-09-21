@@ -24,6 +24,5 @@ layout:     post
 title:      "#{title}"
 date:       #{Time.new}
 categories: [#{categories.join(', ')}]
-permalink:  "1"
 ---
   EOF

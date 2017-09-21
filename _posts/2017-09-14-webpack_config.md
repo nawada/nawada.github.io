@@ -3,7 +3,6 @@ layout: post
 title:  "webpack.config"
 date:   2017-09-14 12:30:00 +0900
 categories: [nodejs, Webpack]
-permalink: "1"
 ---
 # webpack.config
 

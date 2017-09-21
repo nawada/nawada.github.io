@@ -6,6 +6,6 @@ categories: [memo]
 ---
 
 ```javascript
-// Set value EXPECT undefined to window.fuckAdBlock
+// Set value EXCEPT undefined to window.fuckAdBlock
 window.fuckAdBlock = null;
 ```

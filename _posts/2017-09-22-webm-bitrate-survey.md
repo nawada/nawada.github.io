@@ -2,7 +2,9 @@
 layout:     post
 title:      "WebM ビットレート調査"
 date:       2017-09-22 16:05:10 +0900
-categories: [video, ffmpeg]
+categories:
+- video
+- ffmpeg
 ---
 なんとなく WebM を使って GIF アニメの圧縮できるのかなって調べてた。
 

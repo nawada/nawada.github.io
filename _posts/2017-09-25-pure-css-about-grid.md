@@ -1,3 +1,10 @@
+---
+layout:     post
+title:      "Pure.css の Grid"
+date:       2017-09-25 17:39:15 +0900
+categories: [css framework]
+---
+
 米 Yahoo! が開発している [Pure.css](https://purecss.io/) という CSS フレームワークがある。名前の通りピュアなため、どんなサイトにも適合するとのこと。
 
 今回はその中の1つの構成要素の [Grids](https://purecss.io/grids/) について。

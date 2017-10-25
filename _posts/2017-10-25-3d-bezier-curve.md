@@ -9,4 +9,4 @@ SnapSVGの勉強中.
 
 3Dベジエ曲線について視覚的にわかるように以下を書いた.
 
-<script async src="//jsfiddle.net/nawada/t8tkpqdL/embed/js,html,result/"></script>
+<iframe width="100%" height="600" src="//jsfiddle.net/nawada/t8tkpqdL/embedded/js,html,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
